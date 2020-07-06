@@ -45,7 +45,7 @@ def search():
         messagebox.showerror('Error','City not found{}'.format(city))
 
 app = Tk()
-app.title('WeatherApp by Chinedu32')
+app.title('Weather App by 32')
 app.geometry('700x350')
 
 city_text = StringVar()
